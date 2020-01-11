@@ -8,4 +8,4 @@ You need to have graphviz in your system.
 
 Run demo.py 
 
-![alt text] https://github.com/shivekchhabra/Graphviz-Tree/blob/master/Ouput.png
+![alt text](https://github.com/shivekchhabra/Graphviz-Tree/blob/master/Ouput.png)
